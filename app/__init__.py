@@ -1,0 +1,1 @@
+"""Chesspear backend application package."""
